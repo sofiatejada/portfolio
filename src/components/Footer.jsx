@@ -1,7 +1,7 @@
 /* eslint-disable react/no-unescaped-entities */
 export default function Footer() {
     return (
-        <>
+        <footer id="footer">
             <img
                 alt="png of a contact card"
                 src="/dark/contact-white.png"
@@ -27,6 +27,6 @@ export default function Footer() {
             <p>
                 © Sofia Tejada 2022 <a href="#greeting">^</a>
             </p>
-        </>
+        </footer>
     );
 }

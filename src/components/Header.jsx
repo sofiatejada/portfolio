@@ -1,7 +1,7 @@
 export default function Header() {
     return (
         <header
-            className="p-5 justify-between flex items-center bg-sky-950"
+            className="p-5 justify-between flex items-center bg-tamarind-300 duration-500 hover:bg-black"
             id="header"
         >
             <figure>
@@ -15,20 +15,20 @@ export default function Header() {
             </figure>
             <nav>
                 <a
-                    className="p-2 rounded-md hover:opacity-60 transition duration-700 hover:bg-black"
+                    className="p-2 rounded-md hover:opacity-60 transition duration-700 "
                     href="#projects"
                 >
                     i CODE
                 </a>
                 <a
-                    className="mx-2 p-2 rounded-md hover:opacity-60 duration-700 hover:bg-black"
+                    className="mx-2 p-2 rounded-md hover:opacity-60 duration-700 "
                     href="#cool-stuff"
                 >
                     COOL
                 </a>
                 <a
-                    className="mr-1 p-2 rounded-md hover:opacity-60 duration-700 hover:bg-black "
-                    href="#contact"
+                    className="mr-1 p-2 rounded-md hover:opacity-60 duration-700  "
+                    href="#footer"
                 >
                     HELLO
                 </a>
