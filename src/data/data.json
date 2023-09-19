@@ -1,0 +1,170 @@
+[
+    {
+        "itemName": "pokémon! (and other games)",
+        "blurb": "i suck at point and shoot games bro",
+        "light_icon": "../public/light/controller-black.png",
+        "dark_icon": "../public/dark/controller-white.png",
+        "data": [
+            {
+              "title": "pokémon",
+              "image": "../public/pikachu.png",
+              "link": "https://www.pokemon.com/us/pokemon-video-games/"
+            },
+            {
+              "title": "subnautica",
+              "image": "../public/subnautica.png",
+              "link": "https://unknownworlds.com/subnautica/"
+            },
+            {
+              "title": "inside",
+              "image": "../public/inside.png",
+              "link": "https://playdead.com/games/inside/"
+            },
+            {
+              "title": "little nightmares ii",
+              "image": "../public/nightmares.png",
+              "link": "https://www.bandainamcoent.com/games/little-nightmares-2"
+            }
+          ]
+    },
+    {
+        "itemName": "...i read these...",
+        "blurb": "when my attention span has buffered enough",
+        "light_icon": "../public/light/book-black.png",
+        "dark_icon": "../public/dark/book-white.png",
+        "data": [
+            {
+                "title": "crime and punishment",
+                "image": "../public/crime.jpeg",
+                "link": "https://www.amazon.com/Punishment-Everymans-Library-Fyodor-Dostoyevsky/dp/0679420290"
+            },
+            {
+                "title": "pachinko",
+                "image": "../public/pachinko.png",
+                "link": "https://www.amazon.com/Pachinko-National-Book-Award-Finalist/dp/1455563935"
+            },
+            {
+                "title": "project hail mary",
+                "image": "../public/hail-mary.jpg",
+                "link": "https://www.amazon.com/Project-Hail-Mary-Andy-Weir/dp/0593135202"
+            },
+            {
+                "title": "i am legend",
+                "image": "../public/legend.jpg",
+                "link": "https://www.amazon.com/I-Am-Legend-Richard-Matheson/dp/0765357151"
+            }
+        ]
+    },
+        {
+          "itemName": "pics!!!",
+          "blurb": "imagine if i had a mirrorless camera tho!",
+          "light_icon": "../public/light/camera-black.png",
+          "dark_icon": "../public/dark/camera-white.png",
+          "data": [
+              {
+                  "title": "jellies",
+                  "image": "../public/jellies.jpeg",
+                  "link": "https://www.montereybayaquarium.org/"
+              },
+              {
+                  "title": "cool rocks",
+                  "image": "../public/death.jpeg",
+                  "link": "https://www.nps.gov/places/artists-palette.htm"
+              },
+              {
+                  "title": "misty falls",
+                  "image": "../public/yosemite.jpeg",
+                  "link": "https://www.nps.gov/yose/planyourvisit/vernalnevadatrail.htm"
+              },
+              {
+                  "title": "beachy sunset",
+                  "image": "../public/moon.jpeg",
+                  "link": "https://www.californiabeaches.com/beach/del-monte-beach/"
+              }
+          ]
+        },
+    {
+        "itemName": "¡¡i love music!!",
+        "blurb": "¡¿what are you listening to?!",
+        "light_icon": "../public/light/headphones-black.png",
+        "dark_icon": "../public/dark/headphones-white.png",
+        "data": [
+            {
+                "title": "Jekyll & Hyde: The Gothic Musical Thriller",
+                "image": "../public/jh.jpeg",
+                "link": "https://open.spotify.com/album/7cUrqp17ESHV32zPKCerul"
+            },
+            {
+                "title": "Stromae: Multitude",
+                "image": "../public/stromae.webp",
+                "link": "https://open.spotify.com/album/5JY3b9cELQsoG7D5TJMOgw"
+            },
+            {
+                "title": "Wolf Alice: My Love Is Cool",
+                "image": "../public/wolf-alice.jpg",
+                "link": "https://open.spotify.com/album/6bRsXeFIUgPfYLZNprki2h"
+            },
+            {
+                "title": "Agnes Obel: Citizen of Glass",
+                "image": "../public/agnes.jpg",
+                "link": "https://open.spotify.com/album/3jTTLPuVcL6J9pgujnU1lS"
+            }
+        ]
+    },
+    {
+        "itemName": "i been here",
+        "blurb": "i wanna go eeeeverywhere",
+        "light_icon": "../public/light/suitcase-black.png",
+        "dark_icon": "../public/dark/suitcase-white.png",
+        "data": [
+            {
+                "title": "Dominican Republic",
+                "image": "../public/dr.jpg",
+                "link": "https://www.godominicanrepublic.com/"
+            },
+            {
+                "title": "Seoul",
+                "image": "../public/seoul.jpg",
+                "link": "https://english.visitseoul.net/index"
+            },
+            {
+                "title": "London",
+                "image": "../public/london.jpg",
+                "link": "https://www.visitbritain.com/us/en"
+            },
+            {
+                "title": "Barcelona",
+                "image": "../public/barcelona.jpg",
+                "link": "https://www.barcelonaturisme.com/wv3/en/"
+            }
+        ]
+    },
+    {
+        "itemName": "ask me something in...",
+        "blurb": "...i can respond more in spanish tho...",
+        "light_icon": "../public/light/langs-black.png",
+        "dark_icon": "../public/dark/langs-white.png",
+        "data": [
+            {
+                "title": "Spanish",
+                "image": "../public/esp.png",
+                "link": "https://www.britannica.com/topic/Spanish-language"
+            },
+            {
+                "title": "Korean",
+                "image": "../public/kor.webp",
+                "link": "https://www.britannica.com/topic/Korean-language"
+            },
+            {
+                "title": "French",
+                "image": "../public/fre.png",
+                "link": "https://www.britannica.com/topic/French-language"
+            },
+            {
+                "title": "Portuguese",
+                "image": "../public/port.png",
+                "link": "https://www.britannica.com/topic/Portuguese-language"
+            }
+        ]
+    }
+]
