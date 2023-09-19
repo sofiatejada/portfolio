@@ -4,7 +4,7 @@ export default function Footer() {
         <>
             <img
                 alt="png of a contact card"
-                src="../public/dark/contact-white.png"
+                src="/dark/contact-white.png"
             />
             <h3>let's talk</h3>
             <section id="footer">

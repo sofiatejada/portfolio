@@ -6,7 +6,7 @@ export default function Projects() {
         <section id="projects">
             <img
                 alt="png of a html tag"
-                src="../public/dark/code-white.png"
+                src="/dark/code-white.png"
             />
             <h1>code</h1>
             <ul>

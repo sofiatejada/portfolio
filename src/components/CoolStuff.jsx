@@ -7,7 +7,7 @@ export default function CoolStuff() {
         <section id="cool-stuff">
             <img
                 alt="png of a crescent moon"
-                src="../public/dark/moon-white.png"
+                src="/dark/moon-white.png"
             />
             <h2>this stuff's pretty cool i guess...</h2>
             <section>

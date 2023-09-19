@@ -1,28 +1,28 @@
 [
   {
     "title": "Vibn",
-    "image": "../public/vibn.png",
+    "image": "/vibn.png",
     "blurb": "A social app that helps you find your musical match! Users signup through Spotify, and get to interact with other users and see each other's top artists.",
     "gh_link": "https://github.com/Vibn-App",
     "deploy": "https://vibn.netlify.app/"
   },
   {
     "title": "SafeSrc",
-    "image": "../public/safesrc.png",
+    "image": "/safesrc.png",
     "blurb": "An app that helps users get in contact with emergency services alternative to dialing 9-1-1 in their area.",
     "gh_link": "https://github.com/safeSRC",
     "deploy": "https://safesrc.netlify.app/"
   },
   {
     "title": "AstroLocus",
-    "image": "../public/astrolocus.png",
+    "image": "/astrolocus.png",
     "blurb": "A companion app that displayed information on Dark Sky Objects of our solar system, and provided a journal feature that stored logs and uploaded images to a backend.",
     "gh_link": "https://github.com/Astromapi",
     "deploy": "https://astrolocus.netlify.app/"
   },
   {
     "title": "Okane",
-    "image": "../public/okane.png",
+    "image": "/okane.png",
     "blurb": "A simple budgeting app created with vanilla JS that allows users to keep track of their expenses.",
     "gh_link": "https://github.com/kylemayer/f1-group-project-okane",
     "deploy": "https://sofiatejada.github.io/okane/"

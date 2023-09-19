@@ -7,7 +7,10 @@ import Footer from './Footer';
 
 export default function Main() {
     return (
-        <main id="main">
+        <main
+            className="text-white bg-black"
+            id="main"
+        >
             <Header />
             <Greeting />
             <Projects />

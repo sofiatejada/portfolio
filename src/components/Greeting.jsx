@@ -10,7 +10,7 @@ export default function Greeting() {
             </p>
             <figure>
                 <img
-                    src="../public/sofia.JPG"
+                    src="/sofia.JPG"
                     alt="sofia with bunny ear filter"
                 />
             </figure>

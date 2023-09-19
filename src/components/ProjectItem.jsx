@@ -19,7 +19,7 @@ export default function ProjectItem({ title, image, blurb, gh, deploy }) {
                 >
                     <img
                         alt="png of gh icon"
-                        src="../public/dark/gh-white.png"
+                        src="/dark/gh-white.png"
                     />
                 </a>
                 <a
@@ -29,7 +29,7 @@ export default function ProjectItem({ title, image, blurb, gh, deploy }) {
                 >
                     <img
                         alt="png of website icon"
-                        src="../public/dark/site-white.png"
+                        src="/dark/site-white.png"
                     />
                 </a>
             </article>
