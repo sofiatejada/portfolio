@@ -3,23 +3,53 @@ export default function Greeting() {
     return (
         <section
             id="greeting"
-            className="flex pt-5 px-5 justify-around"
+            className="bg-white/10 rounded-md m-5 p-5 grid grid-cols-2 gap-6"
         >
-            <section className="">
-                <h1 className=" font-bold text-6xl">hi.</h1>
-                <p className="">
+            <section>
+                <h1 className="font-bold text-6xl">hi.</h1>
+                <p className="pt-24">
                     dude hi, welcome! i code stuff and have varied interests...i
                     think i'm kinda quirky, but like a right amount. what do you
                     think?
                 </p>
+                <section className="flex gap-1 mt-2">
+                    <a
+                        href="https://www.linkedin.com/in/sofianais/"
+                        target="_blank"
+                        rel="noreferrer"
+                    >
+                        <img
+                            className="h-6"
+                            src="/dark/in-white.png"
+                            alt="linkedin png"
+                        />
+                    </a>
+                    <a
+                        href="https://github.com/sofiatejada/"
+                        target="_blank"
+                        rel="noreferrer"
+                    >
+                        <img
+                            className="h-6"
+                            src="/dark/gh-white.png"
+                            alt="github png"
+                        />
+                    </a>
+                    <a href="mailto: sofianais@icloud.com">
+                        <img
+                            className="h-6"
+                            src="/dark/email-white.png"
+                            alt="email png"
+                        />
+                    </a>
+                </section>
             </section>
-            <figure>
-                <img
-                    src="/sofia.JPG"
-                    alt="sofia with bunny ear filter"
-                    className="h-1/2"
-                />
-            </figure>
+
+            <img
+                src="/sofia.JPG"
+                alt="sofia with bunny ear filter"
+                className="opacity-50 p-6"
+            />
         </section>
     );
 }
