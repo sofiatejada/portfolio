@@ -8,9 +8,9 @@ export default function Greeting() {
             <section>
                 <h1 className="font-bold text-6xl">hi.</h1>
                 <p className="pt-24">
-                    dude hi, welcome! i code stuff and have varied interests...i
-                    think i'm kinda quirky, but like a right amount. what do you
-                    think?
+                    dude hi, welcome! i code stuff and have varied
+                    interests...travel, learning, music, photography,
+                    gaming...to name a few.
                 </p>
                 <section className="flex gap-1 mt-2">
                     <a
@@ -48,7 +48,7 @@ export default function Greeting() {
             <img
                 src="/sofia.JPG"
                 alt="sofia with bunny ear filter"
-                className="opacity-50 p-6"
+                className="opacity-50 p-6 duration-500 hover:opacity-100"
             />
         </section>
     );

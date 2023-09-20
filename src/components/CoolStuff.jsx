@@ -6,7 +6,7 @@ export default function CoolStuff() {
     return (
         <section
             id="cool-stuff"
-            className="bg-white/10 rounded-md mb-5 mx-5 px-8 pb-8 pt-5 w-[761px] flex flex-col items-center"
+            className="bg-white/10 rounded-md m-5 px-8 pb-8 pt-5 w-[761px] flex flex-col items-center"
         >
             <img
                 alt="png of a crescent moon"
