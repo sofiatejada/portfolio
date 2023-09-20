@@ -8,26 +8,26 @@ export default function Card({ title, data, blurb, dark }) {
                 <img
                     alt="png of the thing i like"
                     src={dark}
+                    className=" h-14 w-14"
                 />
             </h3>
-            {data.map((item) => (
-                <section key={Math.random()}>
-                    <article>
+            <section className="grid grid-cols-2">
+                {data.map((item) => (
+                    <article key={Math.random()}>
                         <a
                             rel="noreferrer"
                             target="_blank"
                             href={item.link}
                         >
-                            <figure>
-                                <img
-                                    src={item.image}
-                                    alt={`Placeholder for ${item.title}`}
-                                />
-                            </figure>
+                            <img
+                                src={item.image}
+                                alt={`Placeholder for ${item.title}`}
+                                className="h-12 w-12 rounded-full object-cover"
+                            />
                         </a>
                     </article>
-                </section>
-            ))}
+                ))}
+            </section>
             <p>{blurb}</p>
         </>
     );

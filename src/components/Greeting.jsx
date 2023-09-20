@@ -3,7 +3,7 @@ export default function Greeting() {
     return (
         <section
             id="greeting"
-            className="bg-white/10 rounded-md m-5 p-5 grid grid-cols-2 gap-6"
+            className="bg-white/10 rounded-md m-5 p-5 grid grid-cols-2 gap-6 w-[761px]"
         >
             <section>
                 <h1 className="font-bold text-6xl">hi.</h1>

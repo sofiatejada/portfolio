@@ -5,6 +5,7 @@ export default function Footer() {
             <img
                 alt="png of a contact card"
                 src="/dark/contact-white.png"
+                className=" h-20 w-20"
             />
             <h3>let's talk</h3>
             <section id="footer">
@@ -13,16 +14,30 @@ export default function Footer() {
                     target="_blank"
                     rel="noreferrer"
                 >
-                    linkedin
+                    <img
+                        className="h-6"
+                        src="/dark/in-white.png"
+                        alt="linkedin png"
+                    />
                 </a>
                 <a
                     href="https://github.com/sofiatejada/"
                     target="_blank"
                     rel="noreferrer"
                 >
-                    github
+                    <img
+                        className="h-6"
+                        src="/dark/gh-white.png"
+                        alt="github png"
+                    />
                 </a>
-                <a href="mailto: sofianais@icloud.com">email</a>
+                <a href="mailto: sofianais@icloud.com">
+                    <img
+                        className="h-6"
+                        src="/dark/email-white.png"
+                        alt="email png"
+                    />
+                </a>
             </section>
             <p>
                 © Sofia Tejada 2022 <a href="#greeting">^</a>

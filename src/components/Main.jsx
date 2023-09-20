@@ -8,7 +8,7 @@ import Footer from './Footer';
 export default function Main() {
     return (
         <main
-            className="text-white bg-black"
+            className="text-white bg-black flex flex-col items-center"
             id="main"
         >
             <Header />

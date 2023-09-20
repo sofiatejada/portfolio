@@ -1,7 +1,7 @@
 export default function Header() {
     return (
         <header
-            className="p-5 px-16 justify-between flex items-center bg-biloba-flower-300 duration-500 hover:bg-black"
+            className=" w-full p-5 px-16 justify-between flex items-center bg-biloba-flower-300 duration-500 hover:bg-black"
             id="header"
         >
             <figure>

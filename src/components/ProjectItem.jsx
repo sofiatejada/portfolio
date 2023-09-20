@@ -7,6 +7,7 @@ export default function ProjectItem({ title, image, blurb, gh, deploy }) {
                 <img
                     src={image}
                     alt={`Image of ${title} app`}
+                    className=" h-60"
                 />
                 <figcaption>{title}</figcaption>
             </figure>
@@ -20,6 +21,7 @@ export default function ProjectItem({ title, image, blurb, gh, deploy }) {
                     <img
                         alt="png of gh icon"
                         src="/dark/gh-white.png"
+                        className="h-6"
                     />
                 </a>
                 <a
@@ -30,6 +32,7 @@ export default function ProjectItem({ title, image, blurb, gh, deploy }) {
                     <img
                         alt="png of website icon"
                         src="/dark/site-white.png"
+                        className="h-6"
                     />
                 </a>
             </article>
