@@ -1,8 +1,8 @@
-export default function Header() {
+export default function Navigation() {
     return (
         <header
-            className="w-full mb-5 p-5 px-16 justify-between flex items-center bg-tamarind-300 duration-500 hover:bg-black"
-            id="header"
+            className=" h-screen justify-between flex items-center"
+            id="navigation"
         >
             <figure>
                 <a href="#greeting">
@@ -25,12 +25,6 @@ export default function Header() {
                     href="#cool-stuff"
                 >
                     COOL
-                </a>
-                <a
-                    className="mr-1 p-2 rounded-md hover:opacity-60 duration-700  "
-                    href="#footer"
-                >
-                    HELLO
                 </a>
             </nav>
         </header>

@@ -1,22 +1,22 @@
-// import Contact from './Contact';
 import CoolStuff from './CoolStuff';
 import Greeting from './Greeting';
-import Header from './Header';
+import Navigation from './Navigation';
 import Projects from './ProjectList';
-import Footer from './Footer';
 
 export default function Main() {
     return (
         <main
-            className="text-white bg-black flex flex-col items-center"
+            className="text-white bg-black grid grid-cols-2 items-center"
             id="main"
         >
-            <Header />
-            <Greeting />
-            <Projects />
-            <CoolStuff />
-            {/* <Contact /> */}
-            <Footer />
+            <aside className="bg-tamarind-300 self-start top-0 sticky">
+                <Navigation />
+            </aside>
+            <div>
+                <Greeting />
+                <Projects />
+                <CoolStuff />
+            </div>
         </main>
     );
 }
