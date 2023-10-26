@@ -6,26 +6,26 @@
         "dark_icon": "/dark/controller-white.png",
         "data": [
             {
-              "title": "pokémon",
-              "image": "/pikachu.png",
-              "link": "https://www.pokemon.com/us/pokemon-video-games/"
+            "title": "pokémon",
+            "image": "/pikachu.png",
+            "link": "https://www.pokemon.com/us/pokemon-video-games/"
             },
             {
-              "title": "subnautica",
-              "image": "/subnautica.png",
-              "link": "https://unknownworlds.com/subnautica/"
+            "title": "subnautica",
+            "image": "/subnautica.png",
+            "link": "https://unknownworlds.com/subnautica/"
             },
             {
-              "title": "inside",
-              "image": "/inside.png",
-              "link": "https://playdead.com/games/inside/"
+        "title": "inside",
+            "image": "/inside.png",
+            "link": "https://playdead.com/games/inside/"
             },
             {
-              "title": "little nightmares ii",
-              "image": "/nightmares.png",
-              "link": "https://www.bandainamcoent.com/games/little-nightmares-2"
+            "title": "little nightmares ii",
+            "image": "/nightmares.png",
+            "link": "https://www.bandainamcoent.com/games/little-nightmares-2"
             }
-          ]
+        ]
     },
     {
         "itemName": "...i read these...",

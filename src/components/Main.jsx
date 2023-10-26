@@ -1,22 +1,24 @@
-// import Contact from './Contact';
 import CoolStuff from './CoolStuff';
-import Greeting from './Greeting';
-import Header from './Header';
+import About from './About';
+import Navigation from './Navigation';
 import Projects from './ProjectList';
-import Footer from './Footer';
+import Hello from './Hello';
 
 export default function Main() {
     return (
         <main
-            className="text-white bg-black flex flex-col items-center"
+            className="text-white bg-black flex items-center"
             id="main"
         >
-            <Header />
-            <Greeting />
-            <Projects />
-            <CoolStuff />
-            {/* <Contact /> */}
-            <Footer />
+            <div className="bg-neutral-800 self-start top-0 sticky">
+                <Navigation />
+            </div>
+            <div>
+                <Hello />
+                <About />
+                <Projects />
+                <CoolStuff />
+            </div>
         </main>
     );
 }

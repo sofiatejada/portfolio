@@ -1,8 +1,8 @@
 /* eslint-disable react/no-unescaped-entities */
-export default function Greeting() {
+export default function About() {
     return (
         <section
-            id="greeting"
+            id="about"
             className="bg-white/10 rounded-md m-5 p-5 grid grid-cols-2 gap-6 w-[761px]"
         >
             <section>
